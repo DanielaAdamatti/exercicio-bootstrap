@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F8F8F8; */
+  /*background-color:pink;*/
+  
+}
+
+img{
+  padding-top:13%;
+  padding-bottom:13%;
+}
+
+.center_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.study2{
+  width: 80%;
+}
+
+.margin_padding-geral{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.margin_padding-educacao{
+  margin-bottom: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.progress{
+  height: 0.5rem;
+}
+
+.background-geral{
+background-color:white;
+}
+
+.footer_principal-title{
+color:darkgrey;
+}
